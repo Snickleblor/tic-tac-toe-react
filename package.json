@@ -12,6 +12,7 @@
   "proxy": "http://localhost:4000",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "express": "^4.21.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
