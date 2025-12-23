@@ -1,6 +1,8 @@
-# tic-tac-toe-react
-React Tutorial from https://react.dev/learn/tutorial-tic-tac-toe
+# Tic Tac Toe
 
+## Original
+
+React Tutorial from https://react.dev/learn/tutorial-tic-tac-toe
 
 - [x] For the current move only, show “You are at move #…” instead of a button.
 - [x] Rewrite Board to use two loops to make the squares instead of hardcoding them.
@@ -8,3 +10,6 @@ React Tutorial from https://react.dev/learn/tutorial-tic-tac-toe
 - [x] When someone wins, highlight the three squares that caused the win (and when no one wins, display a message about the result being a draw).
 - [x] Display the location for each move in the format (row, col) in the move history list.
 
+## Wanna host it? Or run locally and test out the multiplayer mode?
+
+[Websocket branch](https://github.com/Snickleblor/tic-tac-toe-react/tree/websocket-deployment)
